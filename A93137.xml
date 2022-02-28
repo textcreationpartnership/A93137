@@ -1,0 +1,497 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A a [sic] letter to a friend, concerning a French invasion, to restore the late King James to his throne And what may be expected from him, should he be successful in it. Published by authority.</title>
+            <author>Sherlock, William, 1641?-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 50 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93137</idno>
+            <idno type="STC">Wing S3296</idno>
+            <idno type="STC">ESTC R232295</idno>
+            <idno type="EEBO-CITATION">99897685</idno>
+            <idno type="PROQUEST">99897685</idno>
+            <idno type="VID">131896</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93137)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 131896)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2520:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A a [sic] letter to a friend, concerning a French invasion, to restore the late King James to his throne And what may be expected from him, should he be successful in it. Published by authority.</title>
+                  <author>Sherlock, William, 1641?-1707.</author>
+               </titleStmt>
+               <extent>[2], 1, 4-14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at London, and re-printed at Edinburgh, by the heir of Andrew Anderson, printer to Their most Excellent Majesties,</publisher>
+                  <pubPlace>[Edinburgh] :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By William Sherlock.</note>
+                  <note>Text is continuous despite pagination.</note>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library, University of California, Los Angeles, California.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Restoration, 1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:131896:1" rendition="simple:additions"/>
+            <p>A A LETTER to a Friend, Concerning a <hi>French Invaſion,</hi> To Reſtore the Late King JAMES to his Throne. AND What may be expected from him, ſhould he be Succeſsful in it.</p>
+            <p>
+               <hi>Publiſhed by Authority.</hi>
+            </p>
+            <p>Printed at <hi>London,</hi> and Re-Printed at <hi>Edinburgh,</hi> by the Heir of <hi>An<g ref="char:EOLhyphen"/>drew Anderſon,</hi> Printer to Their moſt Excellent Majeſties, 1692.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:131896:2"/>
+            <pb facs="tcp:131896:2"/>
+            <head>A Letter to a Friend, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>IN your laſt you ſeem much concerned about the French Invaſion, and deſirous to know what I think may probably be expected from the Late King, ſhould he prove ſo ſucceſsful, as to recover his Throne; and what Engliſh Subjects are bound in Conſci<g ref="char:EOLhyphen"/>ence to do, ſhould he Land in <hi>England,</hi> and demand his Right.</p>
+            <p>The laſt is a material Queſtion, but <hi>I</hi> wonder how you came to ask the Firſt, as if it could be any Queſtion what the Late King will do, if he were reſtored by Power to his Crown: For I think it paſt all doubt, that he will do as he did before, only in all pro<g ref="char:EOLhyphen"/>bability a great deal worſe: And you remember how that was; for Arbitrary Power and Popery are of too great Concernment, and have left too frightful an impreſſion behind them, to be ſo ſoon forgot; and this will go a great way towards an anſwer to your ſe<g ref="char:EOLhyphen"/>cond Queſtion, unleſs you think we are bound to take King <hi>James,</hi> and a French Go<g ref="char:EOLhyphen"/>vernment, and a French Popery with him; which I ſhal not eaſily be perſwaded to; and <hi>I</hi> believe, there are not many Engliſh Proteteſtants will.</p>
+            <p>But to Anſwer your Queſtions diſtinctly. As to the <hi>Firſt,</hi> When we ſee what the late King <hi>James</hi> has done, what reaſon have we to expect, that ſhould be return with Power, he would ever do otherwiſe? Is he more obliged now by his Proteſtant Subjects, than he was before? Can he make fairer Promiſes, than he did before? Is he leſs Zea<g ref="char:EOLhyphen"/>lous for Popery, or grown more out of Conceit with Arbitrary Power? Or will he be leſs able to make himſelf Arbitrary, and ſet up Popery when he returns a Conqueror? For <hi>I</hi> take it for granted he muſt conquer firſt, becauſe King <hi>William</hi> won't abdicat nor ſteal a<g ref="char:EOLhyphen"/>way, and the Power that Conquers, will give Laws and Religion to the Conquer'd.</p>
+            <p>I know there are two Things pretended, as a Foundation for better hopes. <hi>Firſt,</hi> That the late King is now ſenſible that the Engliſh Nation will never bear Popery, nor Arbi<g ref="char:EOLhyphen"/>trary Power, and that he has ſuffered ſo much by theſe Attempts already, that he will never venture the like again. <hi>Secondly,</hi> The great Merits of the Non-ſwearing Clergy and Gentry, which will atone for the Church of <hi>England,</hi> and make him their ſure and faſt Friend, Patron and Defender, eſpecially if thoſe who have been too forward in com<g ref="char:EOLhyphen"/>plying with the late Revolution, ſhall expiate the Crime by an early Repentance, and a vigorous Aſſiſtance to reſtore him to his Throne.</p>
+            <p>
+               <hi>First,</hi> As for the <hi>firſt,</hi> there are too many Anſwers to be given to it, to hinder it from being the leaſt probable ground of Hope; though Hope it ſelf is, <hi>Rei incertae nomen,</hi> ſo very uncertain, eſpecially when we gueſs only at the Inclinations of Princes, that Lives, and Fortunes, and Liberties, and Religion, are not to be ventured on it, againſt former Experience:</p>
+            <p>But to let that paſs, pray conſider what the true Import of this Argument is; for it a<g ref="char:EOLhyphen"/>mounts to this, that all Men will learn by Experience, that Men will not venture on thoſe things a ſecond time, which have proved fatal to them once; that Princes will certainly for ever after diſlike ſuch Counſels and Meaſures, as have already ſhaken their Thrones, and made their Crowns fall from their Heads.</p>
+            <p>
+               <pb n="4" facs="tcp:131896:3"/>
+Now we may Flatter our ſelves with ſuch Hopes as theſe, which may upon ſome ac<g ref="char:EOLhyphen"/>count be called reaſonable Hopes, becauſe there is great Reaſon it ſhould be ſo; but yet they ſo often fail, that there is no Reaſon to rely upon them. The Repentance of dying Sinners and of undone Prodigals, who return to their old Sins again, if they recover their Health, or find new Treaſures to waſte, confutes ſuch Expectations. Sufferings rarely cure a vehement Love and fond Paſſion for any thing, which is the Caſe of old habitual Sinners; and no Man can be fonder of any Vice, than ſome Princes are of Unlimited and Arbitrary Power.</p>
+            <p>And when this is joyned with a reſolved and inflexible Temper, which ſcorns to yield, and had rather be undone a Thouſand Times, than owne, retract, or amend a Fault: Such Misfortunes do but whet Revenge, and make them ſwell as a River does when its Current is ſtopped, which flows with a more rapid and foaming Stream, when it has once forced its way.</p>
+            <p>Eſpecially when Superſtition is the prevailing Ingredient, which fires the Spirits, and raiſes imaginary Scenes of Glory out of the Loſſe of Crowns and Kingdoms: And what will ſuch a Prince if he ever recover his Throne and Power, forfeit the Glory of loſing his Kingdoms again, by deſerting the Cauſe for which he loſt them before? No Man can certainly tell, how Superſtition will Act, nor how it would Reaſon: Eſpecially when the Conſciences of Princes are under ſuch Directors, as will venture their Crowns for them over and over, to carry on their own Deſigns, and know how to Expound Provi<g ref="char:EOLhyphen"/>dence to Flatter Superſtition. And then the Recovery of his Throne may be made a better Argument, and a ſtronger Obligation to revive and proſecute his old Deſigns than the fear of loſing it again can be to make him deſiſt.</p>
+            <p>And to make this yet more demonſtrative, with reference to the Late King, we ought to conſider, That this is not the firſt Tryal he has had, and that this Conſideration has done him no good.</p>
+            <p>He ſaw before what his Father King <hi>Charles</hi> the Firſt ſuffered, only for ſome Attempts towards Arbitrary Power, and for meer Jealouſies and Suſpitions of his favouring Po<g ref="char:EOLhyphen"/>pery: He loſt his Kingdoms and his Life, and his Sons ſuffered a long and hard Exile. <hi>Charles</hi> the Second indeed took warning by this, and though poſſibly he might be big with the ſame Deſigns, yet would be not venture too far, nor diſcover himſelf too open<g ref="char:EOLhyphen"/>ly, for fear of Travelling again, as he uſed to ſpeak: But King <hi>James</hi> had not Patience to conceal his Inclinations, till he came to the Crown; and that had like to have coſt him his Crown, before he had it; and yet this was not ſufficient to caution him againſt thoſe violent Methods he afterwards uſed to advance Popery, which were ſo ſeaſonably defeated by the happy arrival of our preſent Soveraign, whom God long preſerve: And thoſe who are ſo deſirous to try him again in <hi>England,</hi> as they have lately done in <hi>Ireland,</hi> to their full Satisfaction, if they could try only for themſelves, ſhould have my free Con<g ref="char:EOLhyphen"/>ſent to make the Experiment.</p>
+            <p>Have not the poor Iriſh Proteſtants made it to their Coſt, even ſince this very Revolu<g ref="char:EOLhyphen"/>tion, from whence, and from the Wiſdom he muſt needs have Learned by it, this mira<g ref="char:EOLhyphen"/>culous Change in Him is now expected? And did they find any ſuch Change in him, unleſs for the worſe? And yet, if ever, then he was upon his good Behaviour, when he wanted their Aſſiſtance to ſecure his Poſſeſſion of that Kingdom, and to Recover his other Dominions. And when, in Reaſon, it might have been expected, that, whatever Re<g ref="char:EOLhyphen"/>ſentments he had, he would have thought it his Intereſt to have treated Proteſtants with greater Tenderneſſe and Reſpects. But if the Neceſſity of his own Affairs could not ob<g ref="char:EOLhyphen"/>tain
+<pb n="5" facs="tcp:131896:3"/>this from him, what muſt Proteſtants expect, if he return with Power? And though ſome Proteſtants here in <hi>England,</hi> ſeem not to be at all affected with this Experiment, yet <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hath made ſuch an impreſſion upon the Proteſtants in <hi>Ireland,</hi> that they are for ever cu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed of their Fondneſſe, and have not the leaſt Curioſity left to make any further Tryals.</p>
+            <p>It is pretended indeed, in Excuſe of this, that he was then under the Government of French Miniſters and Counſels, under the Power of Iriſh Prieſts and Papiſts, and ſo was <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot at Liberty to follow his own Inclinations: I ſhould be very glad of a good Argu<g ref="char:EOLhyphen"/>ment to prove, that he had better Inclinations. But however, what Comfort is this to Proteſtants, that be has better Inclinations, but is not his own Maſter? For if he muſt never ſhew any Kindneſſe to Proteſtants, it is no matter what his Inclinations are: And can any Man imagine, That if the French King by Force and Power place him on the Throne, he will be leſſe under his Government than he was in <hi>Ireland?</hi> The French King, among many other wiſe Maxims, has this, <hi>I</hi> am ſure, for one, Never to make a King, without making him his own vaſſal; and the Power that can make him a King, can make him his Slave; So that it is to no purpoſe to enquire what King <hi>James</hi> will do, but what King <hi>Lewis</hi> will do, if King <hi>James</hi> returns?</p>
+            <p>
+               <hi>Secondly.</hi> As for the great Merites of the Non-ſwearing Clergy and Laity, <hi>I</hi> greatly ſuſpect, that neither the Late King <hi>James</hi> nor King <hi>Lewis</hi> will think them ſo great as they themſelves do. Their Merit muſt conſiſt either in their Principles, or in their Practices. And we wil briefly confider both.</p>
+            <p>Their meritorious Principle is this, That the Rights of Princes, eſpecially of Hereditary Princes to their Thrones, are ſo Sacred and Inviolable, that as they cannot forfeit them to their own Subjects by any Male-adminiſtration, ſo neither can they by any Provocations, or by any ſucceſs of War, forfeit them to any other Princes: That while ſuch a Prince, or any Legal Heir is living, no other Prince can have any Right to his Throne, nor muſt his Subjects owne and ſubmit to any other Prince, as their Soveraign Lord.</p>
+            <p>Now as much as this Principle ſeems to Flatter Princes, and to make their Thrones Eternal, I am apt to ſuſpect, that no Prince, who conſiders the juſt Conſequence of Things, can think it ſo very meritorious; for it is a very dangerous Principle to Week and Unfortunat Princes, and an intolerable Reſtraint upon the Aſpiring and Ambitious. It is Dangerous to the Unfortunate, becauſe it lays a Neceſſity upon the Conquerour to take away his Life, if he can, as well as his Throne, ſince he cannot loſe his Throne, without loſing his Life, though moſt Princes would rather chuſe to have them parted, than loſe both together; And how do they think King <hi>Lewis</hi> will like this Principle, which ſtands in the way of his Glory, and preaches Reſtitution to him of all thoſe Do<g ref="char:EOLhyphen"/>minions, whoſe legal Heirs are living; which teaches the Subjects of other Princes to deny him Fealty and Obedience, and to Conſpire with their Legal Princes againſt him, <hi>I</hi> doubt not but he likes the Principle as little a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he would like the Practice, and that our <hi>Non-ſwearers</hi> would quickly underſtand, were they the Subjects of his New Conqueſts, which God grant <hi>England</hi> may never be.</p>
+            <p>Indeed, how great a Complement ſoever this Principle may be thought to Princes, it can have no Merit, becauſe, though it may in ſome junctures do them hurt, it never did, and never can do them any ſervice. It never yet hindred a Revolution, and never can make one; and the Reaſon is plain, becauſe no Princes, and very few Subjects, do be<g ref="char:EOLhyphen"/>lieve it, and practice upon it. If a Prince have a juſt Cauſe of War againſt another Prince, he makes no Scruple, if he Conquers, to take his Crown; and the Subjects of ſuch a conquered Prince make no Scruple of Conſcience to ſubmit to the Conquerour;
+<pb n="6" facs="tcp:131896:4"/>though ſometimes a perſonal Kindneſs for a juſt and Indulgent Prince, and a Concern<g ref="char:EOLhyphen"/>ment for their own Liberties and Fortunes, may make them uneaſie under it, and glad of the firſt Opportunity to do themſelves and their Prince Right.</p>
+            <p>The Truth is, Princes have no Reaſon to like this Principle; for, were it true, they could have no Remedies againſt the Injuries of Nighbour Princes; they might indeed Fight and Conquer, but they had better let it alone, if they muſt not take the Throne, which their Sword has won; for it is only the Fear of Conqueſt, and loſing their Crowns, when they are Conquered, that can keep Princes in Awe, and bring them to Juſt and Equal Terms: and if no Prince muſt loſe his Crown, becauſe no Prince muſt take it, it will be impoſſible to beat an Injurious and Obſtinate Prince into good Terms; and, I believe, Princes will as ſoon be perſwaded, That it is Unlawful to make War, as that it is Unlawful to ſeize a conquered Crown; and will think one as meritorious a Principle as the other.</p>
+            <p>And it is certain, Subjects have leſs Reaſon to like this Principle, becauſe it makes them Slaves and Sacrifices even to the Misfortunes of their Prince. A Prince, when he is Conquer'd, or ſees that he muſt be Conquer'd, may eſcape by Flight, but a whole Nation cannot run away; and if they could, have no Reaſon to leave their Country, and their Fortunes behind them: And yet, according to this Principle, they muſt not ſubmit nor ſwear Allegiance to the Conquerour, while the Prince who has forſaken them lives, though they cannot Secure their Lives and Fortunes without it. But Nature and Common Senſe is too powerful for the Sophiſtry of ſuch Principles, and thoſe who cannot Reaſon, can feel what they are to do in ſuch Caſes. The Loyaleſt Subjects<g ref="char:punc">▪</g> when no perſonal Obligations, or ſecret Intereſts determine them otherwiſe, will ſave themſelves by Submiſſion, when they cannot defend their Prince by their Arms; and do not think they do ill in it: And <hi>I</hi> ſuppoſe Princes do not think ſo neither, becauſe they expect the ſame from the Subjects of other Princes in the like Circumſtances; and ſuch an Univerſal Conſent both of Princes and Subjects, when there is no Law of God or Nature againſt it, makes it a ſtanding Law in all Revolutions, which both Princes and Subjects muſt ſubmit to. So that this Principle, were it never ſo true, can do no Service, and therefore can have no Merit in this World, becauſe there are ſo few tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> believe it; that they are not hands enough either to keep a Prince on his Throne, o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to reſtore him to it. All our Non-ſwearers could hot hinder the late Revolution, no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> can they make another: They are enow to make a noiſe, eſpecially if the Loud and Zealous Ladies of that Side be reckoned in; but other Hands and other Pretences muſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> do their Work, if ever they hope to ſee it done; and then no thanks to their Principle for it. Whatever Reward their future Services may deſerve, princes themſelves wil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not think that their Principles deſerve any.</p>
+            <p>Let us then now conſider the Merit of their Actions, and what Opinion the Late King is like to have of that, if he ſhould return.</p>
+            <p>I ſuppoſe, they will be contented he ſhould forget their Merits towards him, whil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he was on the Throne; eſpecially about reading his Declaration; as likewiſe thei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Tower and their Weſtminſter-Hall Merits; which were indeed very great, and did de<g ref="char:EOLhyphen"/>ſerve and would have had a better Reward from a better Hand, had they not rendere<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> themſelves incapable of it. But ſure they don't expect the late King ſhould Rewar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them for ſuch Services. He knew that this raiſed that general diſcontent, which occaſi<g ref="char:EOLunhyphen"/>oned that General Revolt, which coſt him Three Crowns. And if all their Merits ca<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Expiate this Guilt, they come off well; and thoſe had need be very Extraordinary Me<g ref="char:EOLunhyphen"/>rits,
+<pb n="7" facs="tcp:131896:4"/>which have firſt ſo great a Guilt to Expiate, before they can pretend to Merit. Could their Non-ſwearing reſtore him to his Throne again, it would but juſt undo what <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey had done, which is no more than their Duty, and therefore cannot merit, no, not <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o much as a Pardon, though it may make them capable of it, if they fall into merciful Hands. But ſtill there are Four Years Exile, and the loſſe of Three Crowns, and the Expence of ſo much Blood and Treaſure; the Diſhonour of ſo many Defeats, and the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uine of <hi>Ireland</hi> to be accounted for; and how can they make Reſtitution for all this? Which they muſt do before they can lay Claim to Merit.</p>
+            <p>Let all this then be forgot, for it is their Intereſt it ſhould; but they are very ſanguine Men, if they hope it will. Whence then will they da<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e their Merits?</p>
+            <p>When it was certainly known, that the Prince of <hi>Orange,</hi> now our Gracious Sove<g ref="char:EOLhyphen"/>raign, was ready to Land, they ſeemed as well pleaſed with it as other Men; and re<g ref="char:EOLhyphen"/>fuſed, when they were preſſed to it by the Late King, to declare their Abhorrence of it; but, inſtead of that, took upon them to give Advice, and to publiſh it when they had done: In which Advice they recommended almoſt every particular of the Prince's De<g ref="char:EOLhyphen"/>claration, complained of the ſame Abuſes, and adviſed the Calling of a Parliament to redreſſe them; as if the Princes Declaration, and their Advice had been drawn by the ſame Pen, and the Advice had been publiſhed on purpoſe to ſecond the Declaration. This, I ſuppoſe, they will not reckon among their Merits neither: And if they can ex<g ref="char:EOLhyphen"/>cuſe what was ſo haſtily done at <hi>Guildhall,</hi> before the Late King was gone out of the Land, they may very well be contented no more ſhould be ſaid of that.</p>
+            <p>The only Merit then they have to pretend, is their refuſing the Oath of Allegiance to King <hi>William</hi> and Queen <hi>Mary,</hi> and forfeiting their Eccleſiaſtical, Civil, or Military Preferments for it: But what is this to the Late King? Is this done out of Kindneſſe to him or his Government? Would they not have been contented to have lived peacably and quietly, as they themſelves profeſſed, could they have kept their Preferments, and have been excuſed from the New Oaths? And how do they merit of him, by refuſing the Oaths with the Loſs of their Preferments, if they did not for his ſake, but for another and better Reaſon, for fear of being Damned? God may Reward this, but King <hi>James</hi> is not beholden to them. Will they be better Subjects hereafter? will they read his Declaration, when he Returns? Will they make his Will their Law? Will they ſub<g ref="char:EOLhyphen"/>mit to his next Eccleſiaſtical Commiſſion, and give up their Colledges and Churches to Prieſts and Jeſuits? Will they be content to take him the very ſame Man that he went away, and to ſerve him in his own way? Will they no more fill the Nation with the noiſe and fears of Popery and Arbitrary Power? Will they turn Papiſts themſelves, or ſtand by patiently, and give leave to his Prieſts to pervert Proteſtants as faſt as they can? Will they promiſe to demean themſelves with more reſpect towards the Kings Religion, and to leave off their old ſawcineſſe of Printing and Preaching againſt Popery? This in<g ref="char:EOLhyphen"/>deed would bid fair for Merit, but if they oppoſe his Methods of Government, and his Glo<g ref="char:EOLhyphen"/>rious Deſigns, as much as they do King <hi>William's</hi> Right; if it be only a Title they bog<g ref="char:EOLhyphen"/>gle at, if this be all that makes them uneaſie at the Change, their not Swearing does him no Service; He could have kept his Kingdoms upon theſe terms before, but he ſcorned it, and ſo he will thoſe, who to ſalve their Conſciences or their Honours, and to recover their Preferments, would have him upon theſe terms again.</p>
+            <p>As much as ſome Men glory in their ſteddineſſe to Principles, which is certainly a very Honorable thing, and an excellent degree of Virtue, when the Principles are plain and
+<pb n="8" facs="tcp:131896:5"/>certain, yet few Princes (to be ſure, not the late King) like ſuch a ſteddineſs to Princi<g ref="char:EOLunhyphen"/>ples, as oppoſes their Deſigns; a ſtubborn, inflexible Conſcience, is a very unrul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thing, and Kings do not like ſuch Subjects as dare oppoſe a King upon the Thro<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> whatever the Cauſe be: So that I ſuſpect, their very Boldneſs and Reſolution in oppo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ing their preſent Majeſties upon a meer point of Law, will be thought no Virtue fit t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be rewarded by a Prince; who would make his Will superiour to a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Laws.</p>
+            <p>And if the Merit of the Non-Swearers is likely to vaniſh into nothing, eſpeciall<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> when there is no occaſion any longer to court and flatter them, and Prieſts and Jeſui<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have free liberty to comment on their Merits; what Merit will thoſe Men have to plea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> who were forward and zealous in the Revolution, have Sworn Allegiance to their pre<g ref="char:EOLunhyphen"/>ſent Majeſties, have ſerved them in their Armies and Navies, at home and abroad There is no doubt, but they ſhall have fair Promiſes and good words at preſent, a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſhall be remembred hereafter, when there is occaſion.</p>
+            <p>But ſuppoſe the Merits of the Non-Swearing or For-Swearing Clergy and Laity who will help forwards another Revolution, ſhould be acknowledged to be very great what probability is there, that the Church of <hi>England</hi> ſhould fare ever the better for it when Popery and Arbitary Power ſtand in the way? paſt Experience gives no gre<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Encouragement to hope this. King <hi>Lewis</hi> was as much obliged to his proteſtant Sub<g ref="char:EOLunhyphen"/>jects of France, as it is poſſible for any King to be: for they ſet the Crown upon hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Head; and how he has rewarded them, all the world rings of it. The late King wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not much leſs beholden to the Church of <hi>England,</hi> when they ſo vigorouſly oppoſed th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Bill of Excluſion; and how he alſo rewarded them, we all lately ſaw and felt. An<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhall Proteſtants after this, think of obliging ſuch Princes by their Merits? They un<g ref="char:EOLunhyphen"/>derſtand better, that Merit is no Proteſtant Doctrine, and that there can be none out o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Church of Rome. And why ſhould any body expect that which cannot be. Na<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhould the late King return again, and be as much at the Devotion of his Non-ſwearin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Friends, as they promiſe themſelves he will be; I very much doubt what the Church <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>England</hi> will gain by this. If we may gueſs at the Spirit of the Party by the bitt<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Zeal, which inſpires all their Writings, I can expect nothing from them, but as fierce Perſecution of the Church of <hi>England,</hi> as ever it ſuffered from Papiſts or Fanaticks, ex<g ref="char:EOLunhyphen"/>cepting Smithfield Fires; which poſſibly may be exchanged for <hi>Tyburn.</hi> All who li<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in the Communion of the Church of <hi>England,</hi> as now Eſtabl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſhed, are in their accou<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and conſtant Language, no better than Hereticks and Schiſmaticks, and Perjured Apo<g ref="char:EOLunhyphen"/>ſtates, much greater Crimes than the Traditores were guilty of, which was the onl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pretence for the Donatiſt Schiſm and Perſecution. They ſeem to comfort themſelv<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> under their preſent Sufferings, more with the ſweet hopes of Revenge, than any gre<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> expectations of future Rewards; that they ſhall live to ſee the Swearin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Biſhops and Prieſts,<note place="margin">Apol. for the new Separats.</note> the contempt of Princes and People; for if th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> B. of <hi>York,</hi> who is particularly named, cannot eſcape them, <hi>I</hi> dou<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> they will make but very few exceptions. And is not this a great e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>couragement to any who have complyed with the preſent Gov<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rnment, to help the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Men to Power again? Muſt not the Nobility and Gentry expect their ſhare of Ve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>geance, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> well as the Clergie? And is not the Church of <hi>England</hi> then in a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ope<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſtate, which muſt be purged and reformed into Jacobite Principies, and by a Jacobi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Spirit?</p>
+            <p>
+               <pb n="9" facs="tcp:131896:5"/>
+Theſe are all very ſenſible roots (as <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar as we can reaſon about ſuch matters) how <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>tle good is to be expected from the return of the late King with a French Power: He muſt return the lame Man he went, and then Popery and Arbitary Povver muſt return <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vith him; nay, he muſt return much vvorſe than he vvent, becauſe he muſt return <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ore a Vaſſal to France, vvhich I ſuppoſe vvill not mend the Condition of Engliſh Subjects, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uring his Reign.</p>
+            <p>Theſe things ought to be vvell conſidered; for if his Government vvas ſo uneaſie be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re, and gave us ſuch a frightful proſpect, as made the Nation very vvilling to part vvith him, when he thought fit to leave them; it vvould ſeem very ſtrange to by<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anders, ſhould they novv grovv fond of his return, vvhen it is certain if he does re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urn, and returns by the Methods novv intended, Popery and Arbitrary Povver muſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e more Triumphant than ever.</p>
+            <p>He vvanted nothing but povver to make himſelf Abſolute, and to make us all Papiſts, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Martyrs, or Refugees; and that he will now have: For if a French Power can Conquer us, it will make him as Abſolute as the French King will let him be; or to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>peak properly, it will make him though not an Abſolute Prince, yet an Abſolute Vice<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oy, and Miniſter of <hi>France:</hi> He will Adminiſter an Abſolute Power and Government, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nder the influence and direction of French Councils: and then we know what will become of the Liberties and Religion of <hi>England.</hi> And have <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſo long diſdained the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>houghts of ſubjection to France? Has a French League been thought ſuch a National Grievance? Has the pretence of a War with France been found ſuch an excellent ex<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>edient to get Money of Engliſh Parliaments? Ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the expectation of it fired Engliſh <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pirits, and upon occaſion filled our Armies and Navies, without need of Preſſing or <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eat of Drum? Have we ſo deteſted the French Cruelties to Proteſtants? And ſhall we <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow ſo willingly ſtoop to the yoke, and think it a great favour that they will vouchſafe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o Conquer us? Let us never complain hereafter, that our Chains pinch and gall us, when we our ſelves are ready with <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o much joy and thankfulneſs to put them on. And whatever ſome fancy, they will find it a very eaſy and natural think, for the late King, if he return by Force and Power, to make himſelf Abſolute by law: Princes always gain new Powers by the ineffectual oppoſition of Subjects: If they loſe their Crowns, and recover them again, they receive them with an addition of ſome brighter Jewels, and turn diſputed Prerogatives into Legal and undoubted Rights. Thus we know it was when King <hi>Ch.</hi> 2. Returned from a long Exile, all the New Acts are Declara<g ref="char:EOLhyphen"/>tions were made in favour of the Crown<g ref="char:punc">▪</g> and Subjects bound to their good Behaviour, as faſt as Laws could bind them; for in all ſuch Revolutions, thoſe who ſuffered with, or for their Prince, return with zeal and reſentment; and take care in the firſt place to eſtabliſh all ſuch Prerogatives of the Crown, as were diſputed before, and to grant ſuch new Powers as they think are wanting. And others there are always forward to make their fortunes by Complementing the returning Prince; and to expiate their former crimes by a forward and flaming Loyalty; and the reſt are over awed and frighted into a compliance; and thus it is commonly ſeen, that between zeal, and Flattery, and fear, the King increaſes in Power, and the People forfeit their Libert es; and we muſt not expect that it ſhould be otherwiſe now, ſhould the late King return.</p>
+            <p>The firſt Complement that muſt be made to him, is a Jac<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bite Parliament, and God knows what ſuch a Parliament will do! Will they deny him a Toleration <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> papiſts, the repeal of the Teſt the forfeitures, or ſurrenders of Charters, and a new Regulati<g ref="char:EOLhyphen"/>on of Corporations? Will they diſpute, nay, will they not declare his Diſpenſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g power and approve his Eccleſiaſtical Commiſſions? Will they make any ſcruple to declare
+<pb n="10" facs="tcp:131896:6"/>the Legitimacy of the Prince of <hi>Wales,</hi> or to leave the manner of his Education to thoſe who will certainly bre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d him up in Popery? Will they not take care for new Jacobit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Teſts, to renounce and abhore all the ſeveral Hypotheſes and Principles of Government<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which have been urged to juſtify our Submiſſion and Allegiance to their preſent Maje<g ref="char:EOLhyphen"/>ſties? And when they have done this, How eaſy will it be for a down right Popiſh Parliament, which will be the next ſtep that will be made, to do all the reſt?</p>
+            <p>It is very evident what advantages the Prieſts and Jeſuits will have in ſuch a juncture to make Proſelytes, while the People are in a fright, and grown giddy with ſuch fre<g ref="char:EOLhyphen"/>quent Revolutions; and thoſe, who in the late Reign, were the great Advocate of the Proteſtant Cauſe, are diſgrac'd at Court, threatned into ſilence, their Authority weak<g ref="char:EOLhyphen"/>ned, and their Perſons reproach'd both by Papiſts and Jacobites. Numbers of Con<g ref="char:EOLhyphen"/>v<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rts was their great want before, and the preſs and the pulpit their great hindrance; but Jacobites will by natural inſtinct learn more Loyalty, and others will be taught it, as Gideon once taught the men of Succoth with Briars and Thorns. And there never was ſuch an opportunity ſince the Reformation for a plentiful Harveſt of Converts, as this would be like to prove. And who can bear the thoughts of this, who has any Compaſſion for the Souls of Men, any Zeal for the Church of <hi>England,</hi> or any concern to preſerve and propagate the true Faith and Worſhip of Chriſt to poſterity?</p>
+            <p>All this is upon a ſuppoſition of the late King's return, which I declare to you I am not afraid of, though it is fit to mind thoſe men who are ſo fond of it, what they may reaſonably expect, if he ſhould return; which poſſibly may abate their zeal in this cauſe, and that may prevent the miſchiefs of an attempt; for without a hopeful Conſpi<g ref="char:EOLhyphen"/>racy in <hi>England,</hi> the French King is too wary to make ſuch an Attempt.</p>
+            <p>But if they have any love to their Countrey, any pity left in them for the lives and fortunes of Engliſh Proteſtants, I beſeech them to conſider what the Calamities and De<g ref="char:EOLhyphen"/>ſolations of Civil War will be; for that it muſt end in, if there be an Invaſion from a<g ref="char:EOLhyphen"/>broad ſtrengthned with a powerful Conſpiracy at home: King <hi>William,</hi> as <hi>I</hi> ſaid before, will not Deſert or Abdicate; for I never heard of a Prince, who had ventured ſo much to reſcue a Kingdom out of ſo great a danger, that would ſo eaſily expoſe it again to the ſame, or a greater danger, And ſurely the late King does no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> expect he ſhould, for he knows him too well: So that if they look for ſuch another Revolution, to turn King <hi>William</hi> out, as brought him in, they will, in all probability, be miſtaken. There are too many Perſons of Honour and Fortune engaged in this Cauſe, who know the late King too well, to take his Word; and were it poſſible to wheedle men of Fortune and Senſe, the genius and ſpirit of the Nation is againſt them: And that which could make the late Revolution, will probably be able to prevent this.</p>
+            <p>It muſt then come to Blows if an attempt be made: and the fortune of one Battel may not decide it; and thoſe who are too young to remember the deſolations which the late Civil Wars in <hi>England</hi> made, lee them look into <hi>Ireland,</hi> and ſee to what a heap of rub<g ref="char:EOLhyphen"/>biſh a flouriſhing and fruitful Countrey is reduced by being the ſcene of a Three Years War.</p>
+            <p>It is made a popular pretence to raiſe diſcontents, and to make people diſaffected to the preſent Government, that the Taxes for maintaining this War are grown ſo into<g ref="char:EOLhyphen"/>lerable, and there is no proſpect of an end of them: Now <hi>I</hi> muſt confeſs, that the Taxes fall very heavy upon ſome, and am ſorry that the preſent poſture of our Affairs does re<g ref="char:EOLhyphen"/>quire it, and that there can be no eaſier ways found to ſupply the plain and preſſing ne<g ref="char:EOLhyphen"/>ceſſities of the State: But we ought to conſider, that ſtill all this is infinitely eaſier than Popery and French Slavery, if we regard only our Eſtates. The Annual exactions of the
+<pb n="11" facs="tcp:131896:6"/>Church of Rome, (beſides all the cheating ways their Prieſts had to get Money,) while Popery was the Religion of <hi>England,</hi> uſed to be complained of as a National Grievance, and a heavier Tax upon the Subject, than all the King's Revenues: And if thoſe who <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>omplain of our Taxes, were but one month in France to ſee the Poverty and Miſery, which the French Government has brought upon them, they could come home very well contented to pay Taxes, and to fight againſt the French too. We are Free Sub<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ects, not Slaves; we are taxed by our own Repreſentatives, who tax themſelves as well <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s us; and this not by the Arbitrary Will of the Prince. We pay for our own Defence <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Preſervation, as all people ought to do; and while we do not pay near ſo much as <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur Religion, and Lives, and Liberties are worth, and have left wherewithal to main<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>in our ſelves, we have no ſuch great reaſon to complain.</p>
+            <p>But how heavy ſoever Taxes are, are they like a Civil War? Like the dread and terrors <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> an Enemies Army, or of our own? Are they like having our Houſes filled with <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oldiers; or which is worſe, burnt or plundered? Are they like loſing our Friends, our Fathers, Husbands, or Children; by whoſe kindneſs or labours we ſubſiſted? in a word, Are they like the Spoyl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Harveſt, or the Deſolation of a whole Countrey?</p>
+            <p>And can we be contented to ſee <hi>England</hi> again the Seat of War? It is certain in our preſent circumſtances it canot be made ſo, unleſs we our ſelves pleaſe: France has too many Enemies, to think of Conquering <hi>England</hi> without factions at home; and were <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t not for them, we need not fear its united Force; and I hope conſidering men, of what <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erſwaſion ſoever they be, will not think it worth the while to ruine their Countrey by a Civil War, to purchaſe a French Slavery and Popery; two very dear things, could we <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urchaſe them never ſo cheap.</p>
+            <p>What <hi>I</hi> have ſaid hitherto, concerns only <hi>England;</hi> but it becomes us to look a little <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>broad, and conſider, what a fatal Influence a French Conqueſt of <hi>England</hi> will have <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pon the Affairs of all Europe. That it is not mere Juſtice and Honour that makes the French <hi>King</hi> eſpouſe the Cauſe of the late Ling <hi>James,</hi> his Encroachments and Uſurpa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ions on his Neighbours will witneſs; He has no ſcruples of Conſcience about the Rights <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f other Princes; all he can get is his own. But <hi>England</hi> was formerly a Friend and Confederate, at leaſt, not an Enemy; and now the Power of <hi>England,</hi> (which the French have never had reaſon to deſpiſe (is in the hands of a K<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng who ows the French <hi>King</hi> a good turn, and will not, I hope, die in his debt. This checks his ambitious <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſigns, gives life and ſpirit to the Confederacy, threatens to make him reſtore what he <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as taken, and what he keeps by meer force and violence, and to reduce him within his <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ncient Bounds, and to the Ancient Conſtitution of the French Government; and he <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nows while King <hi>William</hi> poſſeſſes the Engliſh Throne, and keeps up the Confederacy, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e muſt not expect to get much more, and may be in conſtant danger of loſing what he <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as gotten.</p>
+            <p>This makes the French <hi>King</hi> ſo concerned to reſtore the late King <hi>James</hi> to the Throne <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f <hi>England,</hi> to get r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d of a Formidable Enemy, and to ſtrengthen himſelf with the Alli<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce of a Powerful Friend; for <hi>England</hi> will probably turn the ſcales, on which ſide ſo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ver i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> happens to be: And there is no doub<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, but the Arms of <hi>England</hi> muſt be devoted <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the ſervice of France, if a French Power ſhould place the late K. in hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Throne again; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> let any Engliſh Proteſtant, who can think coolly of things, conſider what a malignant <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſpect this would have upon the Liberties of Europe, and on the whole Proteſtant Intereſt. The Arms or the Money of <hi>Fr.</hi> has hitherto been an equal Match, at leaſt for all the Con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>derates: while he has found other employment for the Imperial &amp; Engliſh Forces; but <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anks be to God, the K. of <hi>Engl.</hi> &amp; the <hi>Engliſh</hi> Forces are novv at leiſure to attend his
+<pb n="12" facs="tcp:131896:7"/>Motions; thoſe Forces which beat him at the <hi>Boyn,</hi> at <hi>Athlone,</hi> at <hi>Agrim,</hi> at <hi>Lymerick,</hi> in a word, which beat him out of <hi>Ireland,</hi> and have now got a habit of beating the French. And it is no wonder that he is not fond of ſuch company in <hi>Flanders,</hi> but endeavours to find ſome new work for them at home. And if he can but ſend them home again, and embroil us in a Civil War, that is one great point gained; but if he proves ſucceſſeful in his Attempt, he makes <hi>England</hi> his own, and will turn their Arms upon the Confe<g ref="char:EOLhyphen"/>derats; and what can them ſtand in the way? What ſhould hinder him from being the ſole and abſolute Monarch of the Weſt? And then it is eaſie to read the Fate Proteſtants.</p>
+            <p>Thus, Sir, I have freely told you, what <hi>I</hi> apprehend will be the neceſſary and un<g ref="char:EOLhyphen"/>avoidable effects of a French Conqueſt. <hi>I</hi> pretend not to propheſie, nor to demonſtration in ſuch caſes; but what I have ſaid, has all the appearances of probability, all the degrees of moral certainty that any thing of this nature can have; and this is the only Rule in the matters by which wiſe men are to judge and act.</p>
+            <p>And this has appeared a plain and eaſie Anſwer to your Second Queſtion, what En<g ref="char:EOLhyphen"/>gliſh Subjects are bound in Conſcience to do, in caſe the late King ſhould Land in <hi>En<g ref="char:EOLhyphen"/>gland</hi> with French Forces to demand his Crown.</p>
+            <p>Now there are two ſorts of perſons concerned in this queſtion: 1. Thoſe who have not ſworn Allegiance to King <hi>William</hi> and Queen <hi>Mary,</hi> but account the late King <hi>James</hi> as much their King, as he was when he ſat upon the Throne: and that their o<g ref="char:EOLhyphen"/>bligations to him are the ſame now that ever they were. 2. Thoſe who have ſworn Al<g ref="char:EOLhyphen"/>legiance to King <hi>William</hi> and Queen <hi>Mary.</hi> And there are two parts of this Queſtion 1. Whether they are bound in conſcience to aſſiſt the late King, if he return? 2. Whe<g ref="char:EOLhyphen"/>ther it be lawful for them to oppoſe him, and fight againſt him?</p>
+            <p>As for the firſt part of this Queſtion, and as far as it concerns the Non-ſwearers, I ſhal ask them two or three Queſtions, and leave them to anſwer them themſelves.</p>
+            <p n="1">1. The <hi>firſt</hi> queſtion is, Whether they can think themſelves bound in Conſcience upon any pretence whatever, to fight for Popery againſt the Proteſtant Faith and Wor<g ref="char:EOLhyphen"/>ſhip; that is, (as they muſt confeſſe, if they are Proteſtants) to fight for Hereſie and Idolatry againſt the true Faith and Worſhip of Chriſt; or to fight for Antichriſt, and againſt Chriſt? Can any conſideration make this lawful? If nothing can (as <hi>I</hi> wil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> venture to take it for granted, that nothing can) then whatever duty they may fancy they ſtill owe to their Abdicated Prince, it cannot be their Duty to fight for him, whe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they cannot fight for him, without fighting againſt Chriſt and his Religion; though they muſt not fight againſt their Prince for Chriſt, becauſe Chriſt in ſuch caſes require his Diſciples to ſuffer, not to fight for him; yet it does not follow, that they muſt fight for their Prince againſt Chriſt, to bring a Perſecution upon his faithful Diſciples, and to contribute what they can to extirpate the Name and the Religion of Proteſtants out o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Europe.</hi>
+            </p>
+            <p>Do they think themſelves bound in Conſcience to fight for their Prince, againſt th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Laws and Liberties of their Countrey, as well as againſt the Faith and Worſhip o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Chriſt? Let the Rights of Princes be never ſo Sacred, have the reſt of mankind no Rights but only Princes? Is there no ſuch thing as Juſtice due to our ſelves, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or to our Fellow<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Subjects? have the Free-born Subjects of <hi>England,</hi> no Natural, no Legal Rights? And is there any Law of God or man, to fight for our Prince, againſt the Laws and Liberties of our Countrey, which are the Meaſures and boundaries of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat Duty which we ow<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to Princes? that is, to fight for our Prince, againſt the rule of our duty and obedience to Princes; when our Prince, and the Laws and Liberties of our Countrey are on contrary ſides, tho we ſhould grant them, (according to their own Principles) that we muſt
+<pb n="13" facs="tcp:131896:7"/>not fight againſt our Prince for our Laws and Liberties, yet no more muſt we fight for our Prince againſt our Laws and Liberties: It is abundantly enough, to be Paſſive in ſuch caſes; but a Nation which fights againſt its own Laws and Liberties, is <hi>Felo de ſe,</hi> guilty of the worſt kind of Self-Murder. Can any Engliſh man, whatever opinion he has of the late King's Right, think himſelf bound in conſcience to maintain his Right, by giving up his Countrey to <hi>France?</hi> To make him King, and all his Subjects French Slaves? For can any Prince have more Right to be King of <hi>England,</hi> than the Kingdom of <hi>England</hi> has to be <hi>England?</hi>
+            </p>
+            <p>Is it not an unaccountable tenderneſſe &amp; ſcrupuloſity of Conſcience, to be ſo concerned for any one Prince's Right, as to ſacrifice the Rights and Liberties of all the Princes in <hi>Europe,</hi> to his? To ſet him upon the Throne, to drive all other Princes from theirs? We are Citizens of the World, as well as Subjects of <hi>England,</hi> &amp; have our Obligations to Mankind, &amp; to other Princes, as well as to our own; &amp; though our obligation to no one other Prince is ſo great, as to our own. yet the publick good of mankind, or of a great part of the world, is a more ſacred obligation, than the particular Intereſt of our own Prince or Countrey; much leſſe then can the Right of any particular Prince, be it what it will, ſtand in competition with the Rights and Liberties of our own Countrey, and of all <hi>Europe</hi> beſides.</p>
+            <p>It is no more purpoſe to diſpute with men who do not feel the Force of this Argument at the firſt hearing, than to reaſon with blind men about Colours; they have no ſenſe left, nothing but a ſtupid and ſlaviſh Loyalty; all things, tho never ſo ſacred, muſt give place to this; the care of Religion, the love of the Countrey, their Juſtice and Charity to all mankind, muſt vail to their ſenſeleſſe miſtake of the true meaning of this word Loyal<g ref="char:EOLhyphen"/>ty; by which they will needs underſtand an Abſolute Obedience, without Limitation or Reſerve; when moſt certainly, it ſignifies no more than Obedience according to Law.</p>
+            <p n="2">2. <hi>I</hi> would ask them, What they would think themſelves bound to do in ſuch caſes, were the late K. upon the Throne again? Unleſſe they have chang'd their minds (&amp; then they are not ſo ſteady to Principles, as they pretend to be) we may very reaſonably gueſſe, what they would do, by what they did while he was upon the Throne. It is certain they ſo much diſlik'd his open deſigns of Popery &amp; Arbitrary Power, that they oppoſed him as far as they durſt, &amp; would not Fight for him to keep him on the Throne; nay by their Ex<g ref="char:EOLhyphen"/>amples &amp; Counſels, they had ſo influenced the Army, that they would not Fight for him neither, &amp; ſo poſſeſſed the Countrey, that the Nobility and Gentry took Arm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, &amp; declared for the P. of <hi>Orange,</hi> which they thought they might very well do, when the Biſhops would not declare againſt him. This was then thought conſiſtent enough with the High-Tory-Loyalty; &amp; yet if they were not then bound to Fight for him to keep him on his Throne, I am at a great loſſe to know, how it comes to be their duty now to Fight for him to re<g ref="char:EOLhyphen"/>ſtore him to it: He was certainly their K. then, and yet they would not Fight for him, no not to defend his Perſon, Crown and Dignity. And tho they call him their K. ſtill, it is certain he is not K. of <hi>England,</hi> whatever right they may think he has to be ſo; &amp; therefore to fight for him now, is not to fight for the K, but to fight to make him K<g ref="char:punc">▪</g> again. But to let that paſſe, ſuppoſe him to be their K, ſince they will have him ſo How do they come to b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> more obliged to fight for him now he is out of the Throne, than they were to fight for him while he was in it? If they think it their duty to fight for their K. againſt the Re<g ref="char:EOLhyphen"/>ligion, the Laws, &amp; the Liberties of their Countrey, it was their duty to have fought for him then; if they do not think this, it cannot be their duty to fight for him now.</p>
+            <p>But they did not expect what followed; they deſired to have their Law &amp; Liberties ſe<g ref="char:EOLhyphen"/>cured, but not that he ſhould loſe his Crown: <hi>I</hi> believe very few did then expect what fol<g ref="char:EOLhyphen"/>lowed,
+<pb n="14" facs="tcp:131896:8" rendition="simple:additions"/>no more than they do now conſider, what will follow: But ſince he would leave his Crown, Who could help it? For no body took it from him.</p>
+            <p n="3">3. Let me then ask them another queſtion; Whether they would think themſelves bound in Conſcience to fight for him, did they verily believe, that if he recovered his Throne, he would as zealouſly promote Popery and Arbitrary Power, as he did before? If they ſay they would not, they have been at their <hi>non putarem</hi> once already; a ſecond overſight in the ſame kind, would be worſe than the firſt. If they ſay they would, I give them over, as profeſſed Enemies to the true Religion, and the Liberties of Mankind.</p>
+            <p>This I hope may ſatisfy the Non-ſwearers, if they will coolly and ſeriouſly conſider it, that they are not bound in Conſcience to fight for the late K; nay that they are as much bound in Conſcience not to fight for him, as they are bound not to fight againſt the Pro<g ref="char:EOLhyphen"/>teſtant Religion, and Civil Liberties not only of <hi>England,</hi> but of all <hi>Europe.</hi>
+            </p>
+            <p n="2">2. As for thoſe who have Sworn Allegiance to K. <hi>William</hi> &amp; <hi>Q. Mary;</hi> beſides all the former conſiderations, they are under the obligations of an Oath, not to fight againſt their preſent Majeſties, whoſe Sworn Subjects &amp; Leigemen they are. For let them ex<g ref="char:EOLhyphen"/>pound Faith &amp; True Allegiance, to as low a ſenſe as poſſibly they can, the leaſt that they ever could make of it, is to live quietly &amp; peaceably under their Government; not to at<g ref="char:EOLhyphen"/>tempt any thing againſt their Perſons, or Crowns, to hold any Correſpondence with, nor to give any Aſſiſtance to their Enemie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; &amp; therefore to countenance a French Invaſion, or to aſſiſt the late K in recovering the Throne, which Their Majeſties ſo well fill, and which they have Sworn not to diſpoſſeſſe them of, muſt be downright Perjury. If they be ſure that their Oaths to the late K. ſtill oblige them, that indeed would make void the o<g ref="char:EOLhyphen"/>bligation of this Second Oath; but then they muſt be guilty of Perjury in taking it, and by the breaking of it will declare to all the world, that they deliberately &amp; wilfully Per<g ref="char:EOLhyphen"/>jured themſelves when they took it; &amp; let them remember this, when they take Arms a<g ref="char:EOLhyphen"/>gainſt Their Majeſties, and let them expect that recompence which they deſerve.</p>
+            <p>Thoſe who took this, only as a Temporary Oath, which obliged them no longer than till the late K. ſhould return into <hi>England</hi> again to demand his Crown, are guilty of Per<g ref="char:EOLhyphen"/>jury, if they keep it no longer than till they have a promiſing opportunity to break it: For this is to mock God, &amp; to deceive the Government by their Oaths: For no man can think that the meaning of the Oath was no more but this, <q>I do Promiſe &amp; Swear to bear Faith &amp; true Allgiance to K. <hi>Wil.</hi> &amp; <hi>Q. Mary,</hi> till <hi>I</hi> have Power &amp; Opportunity by the return of K. <hi>James</hi> with a French Army, to joyn his Forces, and to Aſſiſt him to recover his Throne.</q> Thoſe who will take and keep Oaths at this rate, we muſt leave to God: But nothing is more plain and certain, than that the New Oath of Allegiance obliges all, who have ta<g ref="char:EOLhyphen"/>ken it, under the guilt of Perjury, at leaſt not to fight for the late King againſt King <hi>Wil<g ref="char:EOLhyphen"/>liam</hi> and Queen <hi>Mary.</hi>
+            </p>
+            <p>And here <hi>I</hi> may very fairly conclude, without entering into any longer diſpute about the lawfulneſſe of fighting againſt a Foreign Army, though the late K. were at the Head of it; for were thoſe, who ſcruple this, ſatisfyed that they ought not to fight for him, their preſent Majeſties have Friends enow, who are very well ſatisfyed to fight againſt him; e<g ref="char:EOLhyphen"/>ſpecially bringing along with him the greateſt Enemies both to the Proteſtant Religon, and to the Civil Liberties, not only of the Engliſh Nation, but of all the Kingdoms and States of <hi>Europe, France</hi> it ſelf not excepted.</p>
+            <p>However, this Letter is large enough already, and if I find you deſire further ſatisfacti<g ref="char:EOLhyphen"/>on in this matter, eſpecially about the late K. <hi>James</hi>'s Declaration, which is lately come to my hands, you may expect a ſpeedy account of it in a Second Letter, from.</p>
+            <closer>
+               <salute>Sir,</salute> 
+               <signed>Yours.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
